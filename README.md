@@ -4,7 +4,7 @@ Facial Recognition Based Smart Building Visitor Entry Log Manager.
 
 # Project Presentation
 
-![1](https://user-images.githubusercontent.com/64589033/210418959-3d375a2c-64f3-4cc6-aab9-fcff70377fba.jpg)
+![1](https://user-images.githubusercontent.com/64589033/211028430-85afa5c0-3b49-4afd-8769-fdcf4ba43504.jpg)
 ![2](https://user-images.githubusercontent.com/64589033/210419654-4b7b623e-9fd5-4c65-9948-b5f850c399ab.jpg)
 ![3](https://user-images.githubusercontent.com/64589033/210420075-68c1fa57-085e-4b9a-abd5-dda0d95c082c.jpg)
 ![4](https://user-images.githubusercontent.com/64589033/210420093-4105b348-caa9-454d-81f6-83bbdd001def.jpg)
